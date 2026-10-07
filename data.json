@@ -1,0 +1,435 @@
+{
+  "self_on_chats": {},
+  "self_all": true,
+  "enemy_mode": true,
+  "enemy_index": 0,
+  "enemy_users": {
+    "6801378628": true,
+    "8738618925": true
+  },
+  "enemy_indices": {
+    "6801378628": 14,
+    "8738618925": 14
+  },
+  "enemy_usernames": {
+    "6801378628": "edi_def1",
+    "8738618925": "Avashaj007"
+  },
+  "monshi": {
+    "on": false,
+    "text": null,
+    "media": null,
+    "offline_only": false,
+    "offline_seconds": 300,
+    "smart": false,
+    "smart_text": null,
+    "smart_media": null,
+    "answered_once": []
+  },
+  "quicks": {},
+  "no_quicks": false,
+  "typing_chats": {},
+  "typing_all": true,
+  "typing_users": [],
+  "typing_users_all": [],
+  "markread": {
+    "chats": {},
+    "all": false,
+    "groups": false,
+    "pv": false,
+    "channels": false
+  },
+  "tagread": {
+    "chats": {},
+    "all": false
+  },
+  "realm_chat_id": null,
+  "save_chats": {},
+  "save_pv": false,
+  "save_pv_time_range": null,
+  "lang": "en",
+  "trmode": false,
+  "trmode_all": false,
+  "tr_self": {},
+  "tr_self_all": false,
+  "sticker_auto": {
+    "chats": {},
+    "all_on": false,
+    "all_on_pv": false,
+    "all_on_channel": false,
+    "all_file_id": null,
+    "all_interval_seconds": 1800,
+    "all_last_sent": {}
+  },
+  "gif_auto": {
+    "chats": {},
+    "all_on": false,
+    "all_on_pv": false,
+    "all_on_channel": false,
+    "all_file_id": null,
+    "all_interval_seconds": 1800,
+    "all_last_sent": {}
+  },
+  "texter_auto": {
+    "chats": {
+      "-1004299885956": {
+        "on": true,
+        "items": [
+          {
+            "text": "ماهی",
+            "interval_seconds": 3600,
+            "last_sent": 1791305035.7745566
+          },
+          {
+            "text": "سکس",
+            "interval_seconds": 3600,
+            "last_sent": 1791305035.7745566
+          },
+          {
+            "text": "جق",
+            "interval_seconds": 3600,
+            "last_sent": 1791305035.7745566
+          },
+          {
+            "text": "پیشی",
+            "interval_seconds": 43200,
+            "last_sent": 1791279080.5778775
+          },
+          {
+            "text": "میو میو",
+            "interval_seconds": 300,
+            "last_sent": 1791305823.2242646
+          },
+          {
+            "text": "هاپ هاپ",
+            "interval_seconds": 180,
+            "last_sent": 1791305963.451815
+          },
+          {
+            "text": "پیشی",
+            "interval_seconds": 43200,
+            "last_sent": 1791284057.451461
+          },
+          {
+            "text": "خیانت",
+            "interval_seconds": 3600,
+            "last_sent": 1791304775.0663543
+          }
+        ]
+      },
+      "-1003734289564": {
+        "on": true,
+        "items": []
+      }
+    },
+    "all_on": false,
+    "all_on_pv": false,
+    "all_on_channel": false,
+    "all_text": null,
+    "all_interval_seconds": 1800,
+    "all_last_sent": {}
+  },
+  "group_info_auto": {
+    "on": false,
+    "text": null
+  },
+  "style": {
+    "bold": {},
+    "underline": {},
+    "code": {},
+    "mention": {},
+    "fonten": {},
+    "tag": {},
+    "strike": {},
+    "spoiler": {},
+    "quote": {},
+    "action_chats": {},
+    "action_all": false
+  },
+  "style_all": {
+    "bold": true,
+    "underline": false,
+    "code": false,
+    "mention": false,
+    "fonten": false,
+    "tag": false,
+    "strike": false,
+    "spoiler": false,
+    "quote": false,
+    "action": false
+  },
+  "tag_triggers": {},
+  "tag_all_limit": 25,
+  "tag_all_mode": {
+    "8920750404": true,
+    "-1004299885956": false,
+    "-1003828608443": false
+  },
+  "sign": {
+    "on": {
+      "-1003828608443": true,
+      "-1003734289564": true
+    },
+    "text": "\n\n\n🔹 ماهان سلف | MahanSelf\n━━━━━━━━━━\n📅 DATE | ⏰ time | HEART"
+  },
+  "autoleave": false,
+  "birthday": {
+    "on": false,
+    "hbd_mode": false,
+    "texts": []
+  },
+  "alarms": [],
+  "names": {
+    "on": false,
+    "list": [],
+    "index": 0,
+    "interval_seconds": 600,
+    "last_rotated": 0
+  },
+  "bios": {
+    "on": false,
+    "list": [],
+    "index": 0,
+    "interval_seconds": 600,
+    "last_rotated": 0
+  },
+  "name_time": {
+    "on": true,
+    "template": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 time",
+    "last_value": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 𝟐𝟎:𝟑𝟎"
+  },
+  "bio_time": {
+    "on": true,
+    "template": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 DATE  🖤 time",
+    "last_value": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 𝟐𝟎𝟐𝟔-𝟏𝟎-𝟎𝟔  🖤 𝟐𝟎:𝟑𝟎"
+  },
+  "photos": {
+    "on": false,
+    "list": [],
+    "index": 0,
+    "interval_seconds": 600,
+    "last_rotated": 0
+  },
+  "names_scheduled": [],
+  "bios_scheduled": [],
+  "profile_log": {
+    "on": false,
+    "last_name": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 𝟏𝟗:𝟑𝟎",
+    "last_bio": "𝐌𝐚𝐡𝐚𝐧 𝐙𝐚𝐫𝐞 𝟐𝟎𝟐𝟔-𝟎𝟗-𝟐𝟓 🖤 𝟏𝟑:𝟏𝟎",
+    "last_photo_id": 5866256072107036211,
+    "destination": "me"
+  },
+  "save_edited": false,
+  "edited_destination": "me",
+  "auto_quote": {},
+  "work_hours": null,
+  "location_text": null,
+  "custom_year": null,
+  "online_default_seconds": 600,
+  "ai": {
+    "chats": {},
+    "model": null,
+    "system_prompt": null
+  },
+  "saved_links": {},
+  "saved_voice": {},
+  "saved_sticker": {},
+  "saved_gif_items": {},
+  "save_deleted": true,
+  "deleted_destination": "me",
+  "love": {
+    "on": false,
+    "user_ids": [],
+    "texts": []
+  },
+  "blockmode": false,
+  "known_pv_users": [
+    6529596856,
+    7023842666,
+    6961492877,
+    8920750404,
+    6031666882,
+    1868173812,
+    8290748664
+  ],
+  "friends": {
+    "user_ids": [],
+    "message": "🔔 یکی از دوستانتان پیام داد.",
+    "reply_texts": [],
+    "reply_media": []
+  },
+  "auto_clicks": {
+    "meowieqbot": [
+      {
+        "mode": "index",
+        "value": 1,
+        "message_filter": ""
+      }
+    ]
+  },
+  "daily_jobs": [
+    {
+      "chat_id": -1003828608443,
+      "time": "23:00",
+      "kind": "text",
+      "text": "شب بخیر",
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1003828608443,
+      "time": "07:00",
+      "kind": "text",
+      "text": "صبح بخیر",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "10:10",
+      "kind": "rate",
+      "text": null,
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "22:23",
+      "kind": "rate",
+      "text": null,
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "22:25",
+      "kind": "news",
+      "text": null,
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "22:27",
+      "kind": "news",
+      "text": null,
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1004299885956,
+      "time": "22:27",
+      "kind": "news",
+      "text": null,
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "07:00",
+      "kind": "text",
+      "text": "صبح بخیر",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "23:00",
+      "kind": "text",
+      "text": "شب بخیر",
+      "last_fired_date": "2026-10-05"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "03:00",
+      "kind": "text",
+      "text": "نیمه شبت بخیر پسر خوب",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "06:30",
+      "kind": "text",
+      "text": "خب داداشی کم کم باید آماده بشی بری مدرسه",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "07:30",
+      "kind": "text",
+      "text": "برو مدرسه کصخل من که میخوابم😂",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "12:15",
+      "kind": "text",
+      "text": "خسته نباشی داداش مدرسه چطور بود ما که خواب بودیم؟ 😂",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "03:30",
+      "kind": "text",
+      "text": "کیا بیدارن یک جقمون نشه به یاد ننه سام 😍",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "09:30",
+      "kind": "text",
+      "text": "خب چه ساعت خوبی در حال گایش مادر سام هستیم خودش مدرسه هست ولی ننش زیر کیر من ای جان😍",
+      "last_fired_date": "2026-10-06"
+    },
+    {
+      "chat_id": -1003734289564,
+      "time": "09:30",
+      "kind": "text",
+      "text": "با ری اکشن نشون بدید اونای که میکن کص ننه سام 👍 کسی هم دیس لایک بده 👎 بازم کص ننه سام به حر حال کص ننه سام خودش مدرسه مادر هم کار میکنه هم حال 😍",
+      "last_fired_date": "2026-10-06"
+    }
+  ],
+  "lockpv": false,
+  "block_words": [],
+  "enemy_words": [],
+  "locks": {},
+  "reactions": {
+    "-1003828608443": {
+      "on": true,
+      "emojis": [
+        "👍"
+      ]
+    },
+    "-1003734289564": {
+      "on": true,
+      "emojis": [
+        "✅"
+      ]
+    }
+  },
+  "reactions_all": {
+    "on": false,
+    "emojis": []
+  },
+  "user_reactions": {},
+  "word_filters": {},
+  "antilogin": false,
+  "known_auth_hashes": [],
+  "clockpfp_on": false,
+  "clockpfp_last_photo": null,
+  "var_font_style": 1,
+  "watches": [],
+  "schedules": [],
+  "notes": [],
+  "todos": [],
+  "intro_steps": [],
+  "last_backup_ts": 1791219658.3502777,
+  "casino": {
+    "balances": {
+      "8920750404": 1000
+    },
+    "last_bonus": {}
+  },
+  "casino_enabled_chats": [],
+  "forwards": {},
+  "profile_music": null,
+  "modes": {},
+  "saved_music": {},
+  "saved_video": {},
+  "card": null,
+  "channel": null,
+  "pm_replies": {},
+  "pm_replies_all": []
+}
